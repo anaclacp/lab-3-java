@@ -1,2 +1,2 @@
-# LabProg3
-Disciplina de Laboratório de Programação III
+# laboratório de programação
+conteúdos da matéria de Java
